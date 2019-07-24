@@ -28,6 +28,32 @@ projects:
     projects:
      - AMS
 
+skills:
+  - name: Java (up to 8)
+    web_url: https://github.com/topics/java
+    image_url: assets/java.jpg
+    
+  - name: Spring Framework
+    web_url: https://github.com/topics/spring-boot
+    image_url: assets/spring.png
+    
+  - name: APIs, Application & Data Integration, Middleware
+    web_url: https://github.com/topics/api
+    image_url: assets/api.png
+    
+  #- name: 
+    #web_url: https://github.com/topics/blockchain
+    #image_url: 
+
+  #- name: 
+    #web_url: https://github.com/topics/cryptocurrency
+    #image_url: 
+
+  #- name: 
+    #web_url: https://github.com/topics/go
+    #image_url: 
+
+     
 social_media:
   # behance: your_username
   # dribbble: your_username
@@ -47,23 +73,23 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: AWS
+  - name: AWS Development
     web_url: https://github.com/topics/aws
     image_url: assets/aws.png
-
+    
+  - name: Continuous Integration
+    web_url: https://github.com/topics/continuous-integration
+    image_url: assets/continuous-integration.png
+    
+  - name: Code Quality & Design Patterns
+    web_url: https://github.com/topics/code-quality
+    image_url: assets/code-quality.png
+    
   - name: Blockchain
     web_url: https://github.com/topics/blockchain
     image_url: assets/blockchain.jpg
 
-  - name: Code Quality & Design Patterns
-    web_url: https://github.com/topics/code-quality
-    image_url: assets/code-quality.png
-
-  - name: Continuous Integration
-    web_url: https://github.com/topics/continuous-integration
-    image_url: assets/continuous-integration.png
-
-  - name: Cryptocurrency
+  - name: Cryptocurrencies
     web_url: https://github.com/topics/cryptocurrency
     image_url: assets/cryptocurrency.png
 
