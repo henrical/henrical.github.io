@@ -41,17 +41,17 @@ skills:
     web_url: https://github.com/topics/api
     image_url: assets/api.png
     
-  #- name: 
-    #web_url: https://github.com/topics/blockchain
-    #image_url: 
+  - name: Python & Ruby Scripting
+    web_url: https://github.com/topics/scripting
+    image_url: assets/python.png
 
-  #- name: 
-    #web_url: https://github.com/topics/cryptocurrency
-    #image_url: 
+  - name: SQL & NoSQL Databases
+    web_url: https://github.com/topics/database
+    image_url: assets/databases.png
 
-  #- name: 
-    #web_url: https://github.com/topics/go
-    #image_url: 
+  - name: JSON, XML and HTML Parsing
+    web_url: https://github.com/topics/xml
+    image_url: assets/parsing.png
 
      
 social_media:
